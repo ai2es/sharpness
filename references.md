@@ -1,4 +1,22 @@
-The Model Evaluation Tools (MET): More than a Decade of Community-Supported Forecast Verification
+The Model Evaluation Tools (MET): More than a Decade of Community-Supported Forecast Verification:
+Gilleland, E., 2010: Confidence intervals for forecast verification. NCAR Tech.
+Note NCAR/TN-479+STR, 78 pp., http://doi.org/10.5065/D6WD3XJM.
+— , 2011: Spatial forecast verification: Baddeley’s delta metric applied to the ICP test cases. Wea. Forecasting, 26, 409–415, https://doi.org/10.1175/WAF-
+D-10-05061.1.
+— , 2017: A new characterization in the spatial verification framework for false
+alarms, misses, and overall patterns. Wea. Forecasting, 32, 187–198, https://
+doi.org/10.1175/WAF-D-16-0134.1.
+— , D. Ahijevych, B. G. Brown, B. Casati, and E. E. Ebert, 2009: Intercomparison
+of spatial forecast verification methods. Wea. Forecasting, 24, 1416–1430,
+https://doi.org/10.1175/2009WAF2222269.1.
+— , J. Lindström, and F. Lindgren, 2010: Analyzing the image warp forecast
+verification method on precipitation fields from the ICP. Wea. Forecasting, 25,
+1249–1262, https://doi.org/10.1175/2010WAF2222365.1.
+— , A. S. Hering, T. L. Fowler, and B. G. Brown, 2018: Testing the tests: What are the impacts of incorrect assumptions when applying confidence intervals or hypothesis tests to compare competing forecasts? Mon. Wea. Rev., 146,
+1685–1703, https://doi.org/10.1175/MWR-D-17-0295.1.
+— , G. Skok, B. G. Brown, B. Casati, M. Dorninger, M. P. Mittermaier, N. Roberts,
+and L. J. Wilson, 2020: A novel set of geometric test fields with applica- tion to distance measures. Mon. Wea. Rev., 148, 1653–1673, https://doi. org/10.1175/MWR-D-19-0256.1.
+
 
 21. Haiden T, Janousek M, Vitart F, Ferranti L, Prates F. 2019 Evaluation of ECMWF forecasts, including the 2019 upgrade. (doi:10.21957/mlvapkke)
 
