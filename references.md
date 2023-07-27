@@ -1,7 +1,8 @@
-The Model Evaluation Tools (MET): More than a Decade of Community-Supported Forecast Verification:
+### The Model Evaluation Tools (MET): More than a Decade of Community-Supported Forecast Verification:
+
+
 Gilleland, E., 2010: Confidence intervals for forecast verification. NCAR Tech.
 Note NCAR/TN-479+STR, 78 pp., http://doi.org/10.5065/D6WD3XJM.
-
 
 — , 2011: Spatial forecast verification: Baddeley’s delta metric applied to the ICP test cases. Wea. Forecasting, 26, 409–415, https://doi.org/10.1175/WAF-
 D-10-05061.1.
@@ -23,6 +24,8 @@ verification method on precipitation fields from the ICP. Wea. Forecasting, 25,
 
 — , G. Skok, B. G. Brown, B. Casati, M. Dorninger, M. P. Mittermaier, N. Roberts,
 and L. J. Wilson, 2020: A novel set of geometric test fields with applica- tion to distance measures. Mon. Wea. Rev., 148, 1653–1673, https://doi. org/10.1175/MWR-D-19-0256.1.
+
+-----------------------------------
 
 Davis, C. A., B. G. Brown, and R. G. Bullock, 2006a: Object-based verification of precipitation forecasts. Part I: Methodology and application to meso- scale rain areas. Mon. Wea. Rev., 134, 1772–1784, https://doi.org/10.1175/ MWR3145.1.
 
