@@ -35,6 +35,9 @@ Davis, C. A., B. G. Brown, and R. G. Bullock, 2006a: Object-based verification o
 
 Bullock, R. G., B. G. Brown, and T. L. Fowler, 2016: Method for Object-Based Di- agnostic Evaluation. NCAR Tech. Note NCAR/TN-532+STR, 84 pp., https://doi. org/10.5065/D61V5CBS.
 
+----------------------------------------------------
+### Can deep learning beat numerical weather prediction?
+
 21. Haiden T, Janousek M, Vitart F, Ferranti L, Prates F. 2019 Evaluation of ECMWF forecasts, including the 2019 upgrade. (doi:10.21957/mlvapkke)
 
 91. Wilks DS 2006 Statistical methods in the atmospheric sciences, vol. 91, 2nd edn. International geophysics series. Amsterdam; The Netherlands: Academic Press.
