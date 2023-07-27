@@ -2,6 +2,7 @@ The Model Evaluation Tools (MET): More than a Decade of Community-Supported Fore
 Gilleland, E., 2010: Confidence intervals for forecast verification. NCAR Tech.
 Note NCAR/TN-479+STR, 78 pp., http://doi.org/10.5065/D6WD3XJM.
 
+
 — , 2011: Spatial forecast verification: Baddeley’s delta metric applied to the ICP test cases. Wea. Forecasting, 26, 409–415, https://doi.org/10.1175/WAF-
 D-10-05061.1.
 
