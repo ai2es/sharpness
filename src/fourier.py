@@ -7,19 +7,14 @@ def compute_power_spectrum(image):
     power_spectrum = np.abs(f_transform) ** 2
     return power_spectrum
 
-def fourier_image_similarity(image1, image2):
+def fourier_rmse(image1, image2):
     # Compute power spectra of both images
     power_spectrum1 = compute_power_spectrum(image1)
     power_spectrum2 = compute_power_spectrum(image2)
 
-    # Compute the normalized cross-correlation between power spectra
-    cross_correlation = np.real(np.fft.ifft2(np.fft.fft2(power_spectrum1) * np.conj(np.fft.fft2(power_spectrum2))))
-    cross_correlation /= np.max(cross_correlation)
-
-    # The maximum value of the cross-correlation indicates similarity
-    similarity_score = np.max(cross_correlation)
-
-    return similarity_score
+    # Compute the mean squared error between power spectra
+    mse = np.mean((power_spectrum1-power_spectrum2)**2)
+    return np.sqrt(mse)
 
 def fourier_total_variation(image):
     f_transform = np.fft.fft2(image)
@@ -32,5 +27,5 @@ if __name__ == '__main__':
     image1 = camera()
     image2 = camera()
 
-    similarity_score = fourier_image_similarity(image1, image2)
-    print("Similarity Score:", similarity_score)
+    fourier_mse = fourier_mse(image1, image2)
+    print("Fourier power spectrum MSE:", fourier_mse)

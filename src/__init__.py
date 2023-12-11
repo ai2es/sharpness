@@ -18,7 +18,7 @@ from .gradient import (
     grad_total_variation
 )
 from .fourier import (
-    fourier_image_similarity,
+    fourier_rmse,
     fourier_total_variation
 )
 from .wavelet import (
@@ -37,10 +37,10 @@ metric_f = {
     "grad-ds": gradient_difference_similarity,
     "grad-rmse": gradient_rmse,
     "laplace-rmse": laplacian_rmse,
+    "fourier-rmse": fourier_rmse,
     "hist-int": histogram_intersection,
     #"gpd": gradient_profile_difference,
     "hog-pearson": hog_pearson,
-    "fourier-similarity": fourier_image_similarity,
     "wavelet-similarity": wavelet_image_similarity,
     "tv": total_variation,
     "grad-tv": grad_total_variation,
