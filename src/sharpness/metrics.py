@@ -21,7 +21,7 @@ from functools import partial
 
 def rmse(X, T):
     """Bivariate -- Root Mean Squared Error"""
-    return np.sqrt(np.mean(X - T) ** 2)
+    return np.sqrt(np.mean((X - T) ** 2))
 
 
 def ssim(X, T, win_size=7, data_range=255):
